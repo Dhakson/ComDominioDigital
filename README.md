@@ -1,5 +1,5 @@
 
-# Aualas do Com Dominio Digital 4.0 (CDD)
+# Aulas do Com Dominio Digital 4.0 (CDD)
 
 Repositório para armazenar códigos que foram aprendidos em sala de aula.
 
